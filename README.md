@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Technologies Used
 [JavaScript]
 In the project directory, you can run:
+##
+![GitHub top language](https://img.shields.io/github/languages/top/tchepkonga/https://github.com/tchepkonga/contact-app.git]
+))
 
 ### `npm start`
 
